@@ -1,0 +1,6 @@
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\HackerRank\bin\Debug\HackerRank.exe.config
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\HackerRank\bin\Debug\HackerRank.exe
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\HackerRank\bin\Debug\HackerRank.pdb
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\HackerRank\obj\Debug\HackerRank.exe
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\HackerRank\obj\Debug\HackerRank.pdb

@@ -1,0 +1,7 @@
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\Hackerrank_test\bin\Debug\Hackerrank_test.dll
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\Hackerrank_test\bin\Debug\Hackerrank_test.pdb
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\Hackerrank_test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\Hackerrank_test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\Hackerrank_test\obj\Debug\Hackerrank_test.csprojResolveAssemblyReference.cache
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\Hackerrank_test\obj\Debug\Hackerrank_test.dll
+C:\Users\ljuba\documents\visual studio 2015\Projects\Hackerrank_test\Hackerrank_test\obj\Debug\Hackerrank_test.pdb
