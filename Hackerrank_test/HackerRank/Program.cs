@@ -39,7 +39,6 @@ namespace HackerRank
                         evenIndexed = evenIndexed + s[j];
                     }
                 }
-
                 Console.WriteLine("'evenIndexed' 'oddIndexed'");
                 Console.ReadLine();
             }
